@@ -1,0 +1,6 @@
+{
+  "name": "خبير نظام الطيبات",
+  "description": "نظام غذائي، تتبع للتمارين والماء، وحساب السعرات مبني على نظام الطيبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
